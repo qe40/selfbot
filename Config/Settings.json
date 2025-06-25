@@ -1,0 +1,22 @@
+{
+    "prefix": ",",
+    "remote-users": [
+        1365587033157799967,
+        1380135747813900391
+    ],
+    "autoping": {
+        "enabled": false,
+        "message": "dont ping me"
+    },
+    "autoreact": {
+        "enabled": true,
+        "emoji": "\u2620\ufe0f"
+    },
+    "afk": {
+        "enabled": false,
+        "message": "nigga stop dming me \ud83d\udc94"
+    },
+    "autobeefer": {
+        "enabled": false
+    }
+}
